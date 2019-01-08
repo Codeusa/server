@@ -1,5 +1,6 @@
 # Ulterius: Easy Remote Management
 
+This project has been deprecated in favor of [Rainway](https://rainway.com/). If you have any questions please email community@rainway.io
 
 ### Interested in sublicensing? 
 
